@@ -36,4 +36,5 @@ All the books and even more are available in pdf via our [Yandex Disk Library Fo
 
 | Lecture Topic | Lecture Date | Notes | Home Assignment |  Deadline  |
 |:-|:-:|:-:|:-:|:-:|
-| Introduction. State space formalism, dynamical systems. Continuous linear system discretization. | 17.09.2024 | [presentation](/lectures/01_introduction/Starkit_team.pdf) [notes](/lectures/01_introduction/01_introduction_discretization_notes.pdf) | [assignment](/home_assignments/ha01/smrai_ha01.pdf) | 23.09.25 |
+| Introduction. State space formalism, dynamical systems. Continuous linear system discretization. | 17.09.2024 | [presentation](/lectures/01_introduction/Starkit_team.pdf) [notes](/lectures/01_introduction/notes_introduction.pdf) | [assignment](/home_assignments/ha01/smrai_ha01_2025.pdf) | 23.09.25 23:59 |
+| PID Controller. Discretization. Euler-Lagrange Equation. Simulation. | 24.09.2024 | [notes](/lectures/02_pid_simulation/notes_pid_simulation.pdf) <br> [code](/lectures/02_pid_simulation/sem_pid_simulation.ipynb) | [assignment](/home_assignments/ha02/smrai_ha02_2025.pdf) | 30.09.25 23:59 |
