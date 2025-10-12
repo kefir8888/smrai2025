@@ -36,5 +36,7 @@ All the books and even more are available in pdf via our [Yandex Disk Library Fo
 
 | Lecture Topic | Lecture Date | Notes | Home Assignment |  Deadline  |
 |:-|:-:|:-:|:-:|:-:|
-| Introduction. State space formalism, dynamical systems. Continuous linear system discretization. | 17.09.2024 | [presentation](/lectures/01_introduction/Starkit_team.pdf) [notes](/lectures/01_introduction/notes_introduction.pdf) | [assignment](/home_assignments/ha01/smrai_ha01_2025.pdf) | 23.09.25 23:59 |
-| PID Controller. Discretization. Euler-Lagrange Equation. Simulation. | 24.09.2024 | [notes](/lectures/02_pid_simulation/notes_pid_simulation.pdf) <br> [code](/lectures/02_pid_simulation/sem_pid_simulation.ipynb) | [assignment](/home_assignments/ha02/smrai_ha02_2025.pdf) | 30.09.25 23:59 |
+| Introduction. State space formalism, dynamical systems. Continuous linear system discretization. | 17.09.2025 | [presentation](/lectures/01_introduction/Starkit_team.pdf) [notes](/lectures/01_introduction/notes_introduction.pdf) | [assignment](/home_assignments/ha01/smrai_ha01_2025.pdf) | 23.09.2025 23:59 |
+| PID Controller. Discretization. Euler-Lagrange Equation. Simulation. | 24.09.2025 | [notes](/lectures/02_pid_simulation/notes_pid_simulation.pdf) <br> [code](/lectures/02_pid_simulation/sem_pid_simulation.ipynb) | [assignment](/home_assignments/ha02/smrai_ha02_2025.pdf) | 30.09.2025 23:59 |
+| Linear Quadratic Regulator. | 01.10.2025 | [notes](/lectures/03_lqr/notes_lqr.pdf) <br> [code](/lectures/03_lqr/sem_lqr.ipynb) | [assignment](/home_assignments/ha03/smrai_ha03_2025.ipynb) | 07.10.2025 23:59 |
+| Model Predictive Control. Derivation of a Closed-Form Optimal Solution for Unconstrained Finite-Horizon Discrete LQR: Linear MPC. | 08.10.2025 | [notes](/lectures/04_linear_mpc/notes_linear_mpc.pdf) | [assignment](/home_assignments/ha04/smrai_ha04_2025.ipynb) | 14.10.2025 23:59 |
