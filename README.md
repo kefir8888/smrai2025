@@ -45,4 +45,6 @@ All the books and even more are available in pdf via our [Yandex Disk Library Fo
 | Adaptive Lyapunov Control Function. Linear System Identification. | 29.10.2025 | [notes](/lectures/07_adaptive_control/notes_adaptive_control.pdf) | [assignment](/home_assignments/ha07/smrai_ha07_2025.ipynb) | 04.10.2025 23:59 |
 | Walking. Motors. | 05.10.2025 | [notes](/lectures/08_walking_motors/notes_walking_motors.pdf) | - | - |
 | Kinematics. Competitions. Torque Control. | 12.11.2025 | [notes](/lectures/09_kinematics_competitions_torque_control/notes_kinematics_competitions_torque_control.pdf) | [assignment](/home_assignments/ha09/smrai_ha09_2025.ipynb) | 18.11.2025 23:59 |
-| Walking Models. Capture Step. | 19.11.2025 | [code](/lectures/10_walking_models_capture_step/sem_walking_models_capture_step.ipynb) | [assignment](/home_assignments/ha10/smrai_ha10_2025.ipynb) | 18.11.2025 23:59 |
+| Walking Models. Capture Step. | 19.11.2025 | [code](/lectures/10_walking_models_capture_step/sem_walking_models_capture_step.ipynb) | [assignment](/home_assignments/ha10/smrai_ha10_2025.ipynb) | 25.11.2025 23:59 |
+| Linear Inverted Pendulum. Spring-Loaded Inverted Pendulum. Symbolic Algebra with sympy. | 26.11.2025 | [code](/lectures/11_lipm_slip_sympy/sem_lipm_slip_sympy.ipynb) | [assignment](/home_assignments/ha11/smrai_ha11_2025.ipynb) | 02.12.2025 23:59 |
+| Non-linear Model Predictive Control. | 10.11.2025 | [code](/lectures/12_nmpc/sem_nmpc.ipynb) | [assignment](/home_assignments/ha12/smrai_ha12_2025.ipynb) | 16.12.2025 23:59 |
