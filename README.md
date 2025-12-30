@@ -49,3 +49,4 @@ All the books and even more are available in pdf via our [Yandex Disk Library Fo
 | Linear Inverted Pendulum. Spring-Loaded Inverted Pendulum. Symbolic Algebra with sympy. | 26.11.2025 | [code](/lectures/11_lipm_slip_sympy/sem_lipm_slip_sympy.ipynb) | [assignment](/home_assignments/ha11/smrai_ha11_2025.ipynb) | 02.12.2025 23:59 |
 | Non-linear Model Predictive Control. | 10.12.2025 | [notes](/lectures/12_nmpc/notes_nmpc.ipynb) <br> [code](/lectures/12_nmpc/sem_nmpc.ipynb) | [assignment](/home_assignments/ha12/smrai_ha12_2025.ipynb) | 16.12.2025 23:59 |
 | Non-linear Model Predictive Control II. Extremum-Seeking Control. | 17.12.2025 | [code](/lectures/13_nmpc_2/sem_nmpc_2.ipynb) | [assignment](https://classroom.google.com/c/ODA3NzA5MTE0Mjky/a/ODM2OTU1NTA3ODQ3/details) | 23.12.2025 23:59 |
+| Seminar on Dynamical Systems. | 24.12.2025 | - | - | - |
